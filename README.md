@@ -15,7 +15,7 @@ Cats - (8pts)
 I have also made progress on the following tasks:
 Locked doors
 
-Helpful Explanations
+Helpful Explanations:
 
 For the time, if the player enters "time" it will tell them excactly how many minutes and 
 seconds they have been playing the game for.
