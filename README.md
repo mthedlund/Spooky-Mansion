@@ -2,20 +2,21 @@
 This is my Project #7: Spooky Mansion.
 
 I have fully completed the following tasks:
-Help command - 4pts
-Stuff command - 4pts
-Items printed out in room - 4 pts
-Take command - 4pts
-Drop command - 4pts
-Time command - 6pts
-Giant unmarked Switch - 12pts
-Getting project onto Github - 8pts
-Cats - 8pts
+Help command - (4pts)
+Stuff command - (4pts)
+Items printed out in room - (4pts)
+Take command - (4pts)
+Drop command - (4pts)
+Time command - (6pts)
+Giant unmarked Switch - (12pts)
+Getting project onto Github - (8pts)
+Cats - (8pts)
 
 I have also made progress on the following tasks:
 Locked doors
 
-Explinations (where necessary)
+Helpful Explanations
+
 For the time, if the player enters "time" it will tell them excactly how many minutes and 
 seconds they have been playing the game for.
 
